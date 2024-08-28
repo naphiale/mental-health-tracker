@@ -26,7 +26,7 @@ SECRET_KEY = 'django-insecure-rewszcj4@0(ixrh5ylh++&vay!_nd$th^z-j%a4jpkh85ue89c
 DEBUG = True
 
 ...
-ALLOWED_HOSTS = ["localhost", "127.0.0.1"]
+ALLOWED_HOSTS = ["localhost", "127.0.0.1", "nafia-levana-mentalhealthtracker.pbp.cs.ui.ac.id"]
 ...
 
 
