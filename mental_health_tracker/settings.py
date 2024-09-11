@@ -125,4 +125,4 @@ STATIC_URL = 'static/'
 
 DEFAULT_AUTO_FIELD = 'django.db.models.BigAutoField'
 
-CSRF_TRUSTED_ORIGINS = ["http://localhost","http://127.0.0.1","http://nafia.levana:aP8YTlpohecqtTTOwhSinbZIwUlZxc7o@pbp.cs.ui.ac.id/nafia.levana/mental-health-tracker", "https://nafia.levana:aP8YTlpohecqtTTOwhSinbZIwUlZxc7o@pbp.cs.ui.ac.id/nafia.levana/mental-health-tracker"]
+CSRF_TRUSTED_ORIGINS = ["http://localhost","http://pbp.cs.ui.ac.id/web/project/nafia.levana/mentalhealthtracker", "https://pbp.cs.ui.ac.id/web/project/nafia.levana/mentalhealthtracker"]
